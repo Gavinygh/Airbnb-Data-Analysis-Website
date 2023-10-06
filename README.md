@@ -1,5 +1,3 @@
-# CMPT-732-Kunkun
-
 <div id="top"></div>
 
 
